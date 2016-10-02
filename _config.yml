@@ -1,5 +1,4 @@
+baseurl: /paralprg-fiit
 collections:
   labs:
-    output: true
-  news:
     output: true

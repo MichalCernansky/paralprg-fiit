@@ -5,7 +5,7 @@ title: Oznamy
 
 ### 19.9.2016
 
-[![Rozvrh PARALPRG](/documents/RozvrPARPR.png)](/documents/RozvrPARPR.pdf)
+[![Rozvrh PARALPRG]({{ site.baseurl }}/documents/RozvrPARPR.png)]({{ site.baseurl }}/documents/RozvrPARPR.pdf)
 
 Cvičenia vo štvrtok sú od 9:00 do 14:00 a od 15:00 do 17:00.
 

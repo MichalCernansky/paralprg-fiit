@@ -5,11 +5,11 @@ title: Prednášky
 
 {% for category in site.data.documents %}
 
-## {{category.name}}
+## {{ category.name }}
 
 {% for document in category.items %}
 
-- [{{document.name}}](documents\{{document.url}})  
+- [{{ document.name }}]({{ site.baseurl }}\documents\{{ document.url }})  
 
 {% endfor %}
 
