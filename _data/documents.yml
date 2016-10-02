@@ -1,0 +1,48 @@
+-
+  name: Úvod
+  items:
+  -
+    name: Organizácia predmetu
+    url: pp_prednaska_1_organizacia.pdf
+  -
+    name: Úvod do paralelného a distribuovaného spracovania
+    url: pp_prednaska_2_uvod.pdf
+-
+  name: Teória
+  items:
+  -
+    name: Synchronizácia
+    url: pp_prednaska_5_synchronizacia.pdf
+  -
+    name: Architektúry paralelných systémov
+    url: pp_prednaska_6_architektury.pdf
+  -
+    name: Návrh paralelných algoritmov
+    url: pp_prednaska_8_navrh.pdf
+  -
+    name: Základné komunikačné operácie
+    url: pp_prednaska_10_komunikacia.pdf
+  -
+    name: Analytické modelovanie paralelných systémov
+    url: pp_prednaska_12_analytickemodelovanie.pdf
+-
+  name: Programovanie
+  items:
+  -
+    name: POSIX Threads
+    url: pp_prednaska_3_pthreads.pdf
+  -
+    name: POSIX Semaphores
+    url: pp_prednaska_4_psem.pdf
+  -
+    name: Monitory v C++, C#, Java
+    url: pp_prednaska_X_monitors.pdf
+  -
+    name: Open Multiprocessing (Open MP)
+    url: pp_prednaska_7_omp.pdf
+  -
+    name: Message Passing Interface (MPI)
+    url: pp_prednaska_9_mpi.pdf
+  -
+    name: Compute Unified Device Architecture (CUDA)
+    url: pp_prednaska_11_cuda.pdf

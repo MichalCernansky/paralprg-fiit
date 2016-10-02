@@ -1,2 +1,5 @@
-url: "http://localhost:4000"
-repository: "username/repo-name"
+collections:
+  labs:
+    output: true
+  news:
+    output: true
