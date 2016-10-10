@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cvičenie 4
+title: Cvičenie 5
 category: lab
 ---
 
