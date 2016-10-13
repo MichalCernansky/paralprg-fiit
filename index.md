@@ -16,4 +16,4 @@ Cvičenia vo štvrtok sú od 9:00 do 14:00 a od 15:00 do 17:00.
 
 ### 13.10.2016
 
-20.10.2016 budú cvičenia od 11.00, čiže cvičenia v nasledujúcom 5. týždni vo štvrtok (20.10.2016) budú od 11:00 do 15:00.
+20.10.2016 budú cvičenia od 11.00, čiže cvičenia v nasledujúcom 5. týždni vo štvrtok (20.10.2016) budú od 11:00 do 17:00.
