@@ -7,12 +7,13 @@ category: lab
 ## OpenMP
 
 V pripravenom prostredí pre Windows je OenmpMP funkčné. Pre Mac OS X žial XCode neobsahuje clang s podporou openmp, je potrebné si to doinštalovať, napríklad takýmto spôsobom ( http://stackoverflow.com/a/33687414), čiže:
-0. Potrebné nainštalovať homebrew (http://brew.sh)
+
+0. Potrebné nainštalovať homebrew (http://brew.sh):
 ```
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-0. Potom nainštalovať balíček pre podporu podporu openmp v clangu: brew install clang-omp
+0. Potom nainštalovať balíček pre podporu podporu openmp v clangu: brew install clang-omp, inštalácia môže trvať aj hodinu:
 ```
 $ brew install homebrew/boneyard/clang-omp
 ```
