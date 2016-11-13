@@ -13,7 +13,7 @@ V pripravenom prostredí pre Windows je OenmpMP funkčné. Pre Mac OS X žial XC
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
-0. Potom nainštalovať balíček pre podporu podporu openmp v clangu: brew install clang-omp, inštalácia môže trvať aj hodinu:
+0. Potom nainštalovať balíček pre podporu openmp v clangu: brew install clang-omp, inštalácia môže trvať aj hodinu:
 ```
 $ brew install homebrew/boneyard/clang-omp
 ```
