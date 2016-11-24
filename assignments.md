@@ -50,22 +50,34 @@ Možné témy:
 - Zhluková analýza rozsiahlých dát pomocou algoritmu k-means
 - Prípadne aj vlastná téma po dohode s cvičiacim
 
+Podmienky vypracovania:
+- Riešenie využíva oba paralelné programátorské modely, aj OpenMP aj MPI v jednom riešení.
+- Spravte experimenty pre rôzne konfigurácie paralelného systému, vhodne zvoľte kombinácie z uvedeného (2 uzly sú podmienkou):
+  - 1 a 2 (prípadne aj viacej) uzlov = zosieťovaných počítačov,
+  - 1,2,4 a 8 MPI procesov,
+  - 1,2,4 a 8 OpenMP vlákien.
+- Prezentuje a odovzdáva sa aj stručná dokumentácia obsahujúca krátky popis reišenia a hlavne dosiahnuté výsledky experimentov s rôznymi komfiguráciami paralelného systému.
+- Riešenie musí byť schopné pracovať na viacerých uzloch (N > 2), pri prezentácii preukážte schopnosť riešenia bežať na 2 rôznych uzloch.
+- Pri prezentácii zdôvodnite použitie zvolených konštrukcií hlavne pre OpenMP ale aj MPI, musíte poznať aj Vami nepoužité konštrukcie (v rozsahu, ako sme sa im venovali na prednáškach). Pre MPI použite kolektívne komunikačné operácie.
+
+
+
 
 ### Generátor Fraktálov
 
-Implementujte generator fraktalu[1] ktory je schopny realizovat jeho vypocet paralelne za pomoci OpenMP, MPI, Cuda/OpenCL alebo ich kombinacie. V implementacii pouzite pripravenu vizualizacnu kostru v distribuovanom prostredi pouzivanom na cviceniach a doplnte jej funkciu GenerateImage. Cielom ulohy je generovat fraktal za co najmensi cas pricom mnozstvo iteracii pri generovani bodu vo fraktale je variabilne. Do kostry implementujte i funkcionaltu merajucu rychlost vypoctu. Za plus sa povazuju interaktivne riesenia umoznujuce zoom a posun vo farebnom fraktale. Riesenie a pripadne otazky ohladom zadania prekonzultujte s Petrom Drahosom na cviceniach.
+Implementujte generator fraktalu[1] ktory je schopny realizovat jeho vypocet paralelne za pomoci OpenMP a MPI. V implementacii mozete pouzit vizualizacnu kostru v distribuovanom prostredi pouzivanom na cviceniach a doplnte jej funkciu GenerateImage, alebo iný zdroj. Cielom ulohy je generovat fraktal za co najmensi cas pricom mnozstvo iteracii pri generovani bodu vo fraktale je variabilne. Do kostry implementujte i funkcionaltu merajucu rychlost vypoctu. Za plus sa povazuju interaktivne riesenia umoznujuce zoom a posun vo farebnom fraktale.
 
 ###  Filter Obrazu
 
-Implementujte filter obrazu vyuzivajuci konvolucnu maticu[2] za pomoci OpenMP, MPI, Cuda/OpenCL alebo ich kombinacie. Na implementaciu vyuzite pripravenu vizualizacnu kostru v distribuovanom prostredi pouzivanom na cviceniach a doplnte jej funkciu GenerateImage. Ako zdrojovy obraz mozete pouzit sum nahodne generovanych hodnot a pre dalsie iteracie filtra pouzite ako vstup jeho predosli vystup. Do kostry implementujte i funkcionaltu merajucu rychlost vypoctu. Za plus sa povazuje nacitanie obrazu zo suboru alebo interaktivbe "kreslenie" do obrazu. Riesenie a pripadne otazky ohladom zadania prekonzultujte s Petrom Drahosom na cviceniach.
+Implementujte filter obrazu vyuzivajuci konvolucnu maticu[2] za pomoci OpenMP a MPI alebo ich kombinacie. Na implementaciu mozete pouzit existujuci iny zdroj. Ako zdrojovy obraz mozete pouzit sum nahodne generovanych hodnot a tiez nacitany obrazu zo suboru; pre dalsie iteracie filtra pouzite ako vstup jeho predosli vystup. Implementujte funkcionaltu merajucu rychlost vypoctu.
 
 ### Zhluková analýza rozsiahlých dát pomocou algoritmu k-means
 
-Implementujte algoritmus k-means [3] a využite paralelné programátorské modely OpenMP, MPI, Cuda/OpenCL alebo ich kombinácie. Implementácia musí byť schopná načítať textový súbor s reálnymi číslami, kde každý riadok zodpovedá jednému pozorovaniu (jednému vektoru v množine). Počet pozorovaní, rozmer vektora pozorovania a tiež počet zhlukov nech je možné zadať v príkazovom riadku. Inicializujte centrá zhlukov nahodým výberom prvkov z množiny a zastavte trénovanie, keď už nedochádza k zmenám centier zhlukov. Počas trénovania počítajte mieru WCSS (Within cluster sum of squares) a tiež meranie času výpočtu. Riešenie a prípadné otázky ohľadom zadania prekonzultujte s Michalom Čerňanským na cvičeniach.
+Implementujte algoritmus k-means [3] a využite paralelné programátorské modely OpenMP a MPI. Implementácia musí byť schopná načítať textový súbor s reálnymi číslami, kde každý riadok zodpovedá jednému pozorovaniu (jednému vektoru v množine). Súbor si vhodne vygenerujte tak aby zodpovedal zvolenému počtu zhlukov (zhluk vybraný z rovnomerného rozdelenia a bod v rámci zhluku podľa Gaussovho = normálneho rozdelenie). Pre klastrovací program je počet pozorovaní, rozmer vektora pozorovania a tiež počet zhlukov možné zadať v príkazovom riadku resp. si to program určí zo vstupného súboru. Inicializujte centrá zhlukov nahodým výberom prvkov z množiny a zastavte trénovanie, keď už nedochádza k zmenám centier zhlukov. Počas trénovania počítajte mieru WCSS (Within cluster sum of squares) a tiež meranie času výpočtu.
 
 ### Dopredné šírenie v neurónových sieťach
 
-Implementujte algoritmus dopredného šírenia v doprednej viacvrstvovej perceptrónovej sieti [4] a využite paralelné programátorské modely OpenMP, MPI, Cuda/OpenCL alebo ich kombinácie. Implementácia musí byť schopná načítať textový súbor s reálnymi číslami, kde každý riadok zodpovedá jednému vstupnému vektoru. Počet krokov dopredného šírenia, počet vstupných, skrytých a výstupných neurónov nech je možné zadať v príkazovom riadku. Na konci simulácie nech aplikácia zapíše výstupy siete do textového súboru. Riešenie a prípadné otázky ohľadom zadania prekonzultujte s Michalom Čerňanským na cvičeniach.
+Implementujte algoritmus dopredného šírenia v doprednej viacvrstvovej perceptrónovej sieti [4] a využite paralelné programátorské modely OpenMP a MPI. Implementácia musí byť schopná načítať textový súbor s reálnymi číslami, kde každý riadok zodpovedá jednému vstupnému vektoru. Počet krokov dopredného šírenia, počet vstupných, skrytých a výstupných neurónov nech je možné zadať v príkazovom riadku resp. si to program určí zo vstupného súboru. Na konci simulácie nech aplikácia zapíše výstupy siete do textového súboru. Realizujte meranie času výpočtu.
 
 [1] http://en.wikipedia.org/wiki/Mandelbrot_set  
 [2] http://www.gamedev.net/reference/programming/features/imageproc/page2.asp  
