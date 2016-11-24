@@ -51,6 +51,7 @@ Možné témy:
 - Prípadne aj vlastná téma po dohode s cvičiacim
 
 Podmienky vypracovania:
+
 - Riešenie využíva oba paralelné programátorské modely, aj OpenMP aj MPI v jednom riešení.
 - Spravte experimenty pre rôzne konfigurácie paralelného systému, vhodne zvoľte kombinácie z uvedeného (2 uzly sú podmienkou):
   - 1 a 2 (prípadne aj viacej) uzlov = zosieťovaných počítačov,
