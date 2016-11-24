@@ -11,9 +11,10 @@ category: lab
   - Project -> Build Options -> Linker Settings -> pole Other Link Options -> pridať „-lmpi“
 0. Spustiť program smpd a nechať ako bežiaci proces Pomocou CMD alebo PowerShell:
 ```
-# cd %CodeBlocksPath%/toolchains/bin
-# ./smpd -d
+$ cd %CodeBlocksPath%/toolchains/bin
+$ ./smpd -d
 ```
+
 0. Skompilovaný (.exe) súbor musí byť umiestnený v rovnakom adresári na oboch PC
 0. V CodeBlocks nastaviť argumenty programu
   - Project -> „Set programs arguments...“
@@ -50,18 +51,22 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 ```
 $ brew install open-mpi
 ```
+
 0. Kompilovať program pomocou mpicc, napríklad:
 ```
 $ mpicc mpi_hello.c -o mpi_hello  
 ```
+
 Ak si chcete pozrieť, s akými parametrami (knižnice, adresáre pre knižnice, hlavičkové súbory, ...), použite prepínač show, ten vám ukáže, aký kompilátro sa použije:
 ```
 $ mpicc mpi_hello.c -o mpi_hello -show
 ```
+
 0. Spustite program pomocou mpirun:
 ```
 $ mpirun -n 4 --hosts 127.0.0.1,127.0.0.1,127.0.0.1,127.0.0.1 mpi_hello
 ```
+
 Namiesto uvedenia uzlov je možné použiť prepínač --hostfile:
 ```
 $ cat my-hostfile
@@ -72,4 +77,4 @@ $ mpirun -n 4 --hostfile my-hostfile mpi_hello
 ```
 
 ### Poznámky:
-- Ak spúštate program na viacerých počítačoch, nie je potrebné spúšťať žiadny daemon (smpd), open-mpi runtime sa stará o všetko.
+- Aj keď spúštate program na viacerých počítačoch, nie je potrebné spúšťať žiadny daemon (smpd), open-mpi runtime sa stará o všetko.
