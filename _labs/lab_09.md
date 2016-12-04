@@ -15,7 +15,7 @@ category: lab
   $ ./smpd -d
   ```
 
-0. Skompilovaný (.exe) súbor musí byť umiestnený v rovnakom adresári na oboch PC
+0. Skompilovaný (.exe) súbor musí byť umiestnený v rovnakom adresári na oboch PC, **ku skompilovanému .exe súboru je potrebné nakopírovať všetky knižnice a programy z toolchains adresára**
 0. V CodeBlocks nastaviť argumenty programu
   - Project -> „Set programs arguments...“
   - Vybrať požadovaný „build target“
@@ -56,7 +56,6 @@ category: lab
   ```
   $ mpicc mpi_hello.c -o mpi_hello  
   ```
-
   Ak si chcete pozrieť, s akými parametrami (knižnice, adresáre pre knižnice, hlavičkové súbory, ...), použite prepínač show, ten vám ukáže, aký kompilátro sa použije:
   ```
   $ mpicc mpi_hello.c -o mpi_hello -show
@@ -64,17 +63,5 @@ category: lab
 
 0. Spustite program pomocou mpirun:
   ```
-  $ mpirun -n 4 --hosts 127.0.0.1,127.0.0.1,127.0.0.1,127.0.0.1 mpi_hello
+  $ mpirun -n 4 --host 127.0.0.1,127.0.0.1,127.0.0.1,127.0.0.1 mpi_hello
   ```
-
-  Namiesto uvedenia uzlov je možné použiť prepínač --hostfile:
-  ```
-  $ cat my-hostfile
-  192.168.0.1 slots=4
-  192.168.0.2 slots=4
-
-  $ mpirun -n 4 --hostfile my-hostfile mpi_hello
-  ```
-
-### Poznámky:
-- Aj keď spúštate program na viacerých počítačoch, nie je potrebné spúšťať žiadny daemon (smpd), open-mpi runtime sa stará o všetko.
