@@ -25,3 +25,7 @@ Tento týžďen (6. týždeň pondelok 24.10, utorok 25.10. a štvrtok 27.10.201
 ### 2.11.2016
 
 Štvrtok 3.11.2016 začnú cvičenia trochu neskôr a to o 9:30.
+
+### 4.12.2016
+
+Vo štvrtok 8.11.2016 pred prednáškou o 15:00 bude náhradný termín pre úlohu zo synchronizácie. 
