@@ -12,7 +12,7 @@ Projekt – 12 týždeň, 20b
 
 Prvá úloha bude zadaná až na cvičení a bude ju potrebné vypracovať v priebehu cvičenia.
 
-Projekty budú zadané a dohodnuté v predstihu, bude možné ich vypracovať mimo cvičení a na cvičeniach ich prísť odprezentovať. Za každý týždeň oneskoreného odprezentovania bude projekt penalizovaný 2 bodmi. Bližšie informácie o môžných témach sú nižšie. Prezentuje sa produkt a odovzdáva sa krátka správa spolu s produktom.
+Projekty budú zadané a dohodnuté v predstihu, bude možné ich vypracovať mimo cvičení a na cvičeniach ich prísť odprezentovať. Za každý týždeň oneskoreného odprezentovania bude projekt penalizovaný 4 bodmi. Bližšie informácie o môžných témach sú nižšie. Prezentuje sa produkt a odovzdáva sa krátka správa spolu s produktom.
 
 
 ## Úloha (Synchronizácia)

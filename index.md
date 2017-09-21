@@ -3,29 +3,10 @@ layout: page
 title: Oznamy
 ---
 
-### 19.9.2016
 
-[![Rozvrh PARALPRG]({{ site.baseurl }}/documents/RozvrPARPR.png)]({{ site.baseurl }}/documents/RozvrPARPR.pdf)
+### 19.9.2017
 
-Cvičenia vo štvrtok sú od 9:00 do 14:00 a od 15:00 do 17:00.
+Prednáška bude bývať v stredu od 11:00 do 12:40 (Michal Čerňanský).
 
+Ďalšiu stredu 27.9. prednáška nebude. Cvičenia v stredu budú iba s Peťom Lackom o 9:00 do 10:40 a o 15:00 do 16:40; na tieto cvičenia môžu prísť aj študenti zo štvrtkových cvičení o 13:00 a o 17:00, ktoré nebudú. Cvičenia v pondelok sa nemenia.
 
-### 10.10.2016
-
-Úloha zo synchronizácie bude riešená na 6. cvičení. Je potrebné prísť na cvičenie podľa rozvrhu alebo sa osobne dohodnúť inak. Je potrebné prísť na začiatku cvičenia podľa rozvrhu (o 7:00, 9:00, 11:00 alebo 15:00).
-
-### 13.10.2016
-
-20.10.2016 budú cvičenia od 11.00, čiže cvičenia v nasledujúcom 5. týždni vo štvrtok (20.10.2016) budú od 11:00 do 17:00.
-
-### 23.10.2016
-
-Tento týžďen (6. týždeň pondelok 24.10, utorok 25.10. a štvrtok 27.10.2016) sa rieši v rámci zápočtu úloha zo synchronizácie. Je potrebné prísť na cvičenie podľa rozvrhu alebo sa osobne dohodnúť inak. Tí čo máte cvičenia vo štvrtok, je potrebné prísť na začiatku cvičenia podľa pôvodného rozvrhu (o 7:00, 9:00, 11:00 alebo 15:00), ak ste sa nedohodli inak.
-
-### 2.11.2016
-
-Štvrtok 3.11.2016 začnú cvičenia trochu neskôr a to o 9:30.
-
-### 4.12.2016
-
-Vo štvrtok 8.11.2016 pred prednáškou o 15:00 bude náhradný termín pre úlohu zo synchronizácie. 

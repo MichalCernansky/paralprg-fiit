@@ -8,8 +8,8 @@ Ročník: **3.**
 Trvanie: **12 týždňov**  
 Semester: **zimný**  
 Počet hodín týždenne (prednášky - cvičenia): **2 - 2**  
-Prednášajúci: **Ing. Michal Čerňanský, PhD. (michal.cernansky [at] stuba sk)**  
-Cvičiaci: **Ing. Lukáš Markovič**, **Ing. Matej Kloska**  
+Prednášajúci: **doc. Ing. Michal Čerňanský, PhD. (michal.cernansky [at] stuba sk)**  
+Cvičiaci: **Ing. Peter Lacko, PhD. (peter.lacko [at] stuba sk)**, **Ing. Lukáš Markovič (lukas.markovic [at] stuba sk)**  
 
 ## Náväznosti a ciele predmetu
 Cieľom predmetu je poskytnúť študentom znalosti o metódach a prostriedkoch paralelného spracovania s dôrazom na ich využitie pri tvorbe aplikácií. Predmet umožní študentom získať praktické skúsenosti s návrhom efektívnych paralelných algoritmov pomocou programovacích modelov pre symetrické multiprocesory a počítačové klastre, osobitná pozornosť bude venovaná programovacím modelom pre mnohojarové grafické procesory.
