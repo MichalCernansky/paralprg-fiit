@@ -20,7 +20,7 @@ Riešte na cvičení zadanú úlohu, na riešenie máte 90 minút, výsledný s�
 - každý príďte na cvičenie, ktoré máte oficiálne zapísané, ak chcete inak (odôvodnene), napíšte mi mail
 - je možný opravný termín v dosiaľ neurčenom čase a mieste, daného termínu sa môžu zúčastniť všetci, teda aj tí, čo získali minimálne body
 
-Niekoľko tipov a poznámok k úlohám (námety k diskusii a otázkam na najbližšom cvičení 23.10.2017):
+Niekoľko tipov a poznámok k úlohám:
 - pozrite si poriadne prednášku s názvom "synchronizácia" a správne použitie synchronizačných konštrukcií
 - dôležité sú bariéra, turniket, zapisovatelia a čitatelia, producenti a konzumenti, atď.
 - je dôležité aby ste vedeli, kedy ktorú konštrukciu použiť a nesnažili sa vymýšľať zbytočne vlastné riešenia, niekedy je ale potrebné vlastné riešenia vymyslieť (napríklad "organizmy" v [uloha1priklady.zip](labs/uloha1priklady.zip))
