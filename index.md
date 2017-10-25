@@ -18,7 +18,7 @@ Tento týždeň sú prednáška a cvičenia už podľa rozvrhu: prednáška v st
 
 ### 25.10.2017
 
-Prvá "písomka" = synchronizačná úloha riešená počas cvičenia bude riešená 30.10. (cvičenia v pondelok) a 8.11. (cvičenia v stredu, 1.11. je sviatok). Ak chcete prísť na iný termín ako je Vaše cvičenie, dohodnite sa osobne s cvičiacimi. Pozrite si popis [cvičenia 6](labs/lab_06.html).
+Prvá "písomka" = synchronizačná úloha riešená počas cvičenia bude riešená 30.10. (cvičenia v pondelok) a 8.11. (cvičenia v stredu, 1.11. je sviatok). Ak chcete prísť na iný termín ako je Vaše cvičenie, dohodnite sa osobne s cvičiacimi. Pozrite si popis [cvičenia 6](labs.html#cvičenie-6).
 
 Pridané ďalšie dve úlohy do [uloha1priklady.zip](labs/uloha1priklady.zip).
 
