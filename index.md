@@ -18,9 +18,9 @@ Tento týždeň sú prednáška a cvičenia už podľa rozvrhu: prednáška v st
 
 ### 25.10.2017
 
-Prvá "písomka" = synchronizačná úloha riešená počas cvičenia bude riešená 30.10. (cvičenia v pondelok) a 8.11. (cvičenia v stredu, 1.11. je sviatok). Ak chcete prísť na iný termín ako je Vaše cvičenie, dohodnite sa osobne s cvičiacimi. Pozrite si popis cvičenia 6.
+Prvá "písomka" = synchronizačná úloha riešená počas cvičenia bude riešená 30.10. (cvičenia v pondelok) a 8.11. (cvičenia v stredu, 1.11. je sviatok). Ak chcete prísť na iný termín ako je Vaše cvičenie, dohodnite sa osobne s cvičiacimi. Pozrite si popis [cvičenia 6](labs/lab_06.html).
 
-Pridané ďalšie dve úlohy do zip súboru s úlohami.
+Pridané ďalšie dve úlohy do [uloha1priklady.zip](labs/uloha1priklady.zip).
 
 Aktualizovaná prednáška "Synchronizácia", taka ako aj bola odprednášaná. Pridané: "Producers - Consumers, veľkosť buffer-a obmedzená (správne riešenie)".
 
