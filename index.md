@@ -14,3 +14,16 @@ Prednáška bude bývať v stredu od 11:00 do 12:40 (Michal Čerňanský).
 ### 2.10.2017
 
 Tento týždeň sú prednáška a cvičenia už podľa rozvrhu: prednáška v stredu o 11:00, cvičenia v pondelok o 17:00 a 19:00, a v stredu o 9:00, 13:00, 15:00 a aj 17:00.
+
+
+### 25.10.2017
+
+Prvá "písomka" = synchronizačná úloha riešená počas cvičenia bude riešená 30.10. (cvičenia v pondelok) a 8.11. (cvičenia v stredu, 1.11. je sviatok). Ak chcete prísť na iný termín ako je Vaše cvičenie, dohodnite sa osobne s cvičiacimi. Pozrite si popis cvičenia 6.
+
+Pridané ďalšie dve úlohy do zip súboru s úlohami.
+
+Aktualizovaná prednáška "Synchronizácia", taka ako aj bola odprednášaná. Pridané: "Producers - Consumers, veľkosť buffer-a obmedzená (správne riešenie)".
+
+
+
+
