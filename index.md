@@ -12,3 +12,6 @@ Prednáška bude bývať v stredu od 17:00 do 18:30 (aula -1.65). Cvičenia bud�
 
 
 
+### 24.9.2018
+
+**V stredu 26.9. budú iba cvičenia o 8:00 a 10:00 (miestnosť -1.40), cvičenia o 13:00 a 15:00 a ani prednáška nebudú. Na cvičenia o 8:00 a 10:00 (miestnosť -1.40) môže prísť každý kto chce a komu to vyhovuje.**
