@@ -29,3 +29,6 @@ Pozrite si materiály z prednášky a príklady v **PaPP/examples/pthreads**: **
    0. Program riešte pomocou semafórov.
 
 10. Rozšírte zadanie tak, že po N-tom vlákne bude nasledovať 1. vlákno. Program skončí, keď premenná counter nadobudne hodnotu 3*N (vykonajú sa 3 cykly).
+
+Príklad s konštrukciami na signalizáciu medzi vláknami (samostatná práca: je potrebné doriešiť správne ukončenie programu):
+{% gist 106151357168b6923aa33a4e68eda1c6 %}
