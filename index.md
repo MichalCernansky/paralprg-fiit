@@ -3,6 +3,10 @@ layout: page
 title: Oznamy
 ---
 
+### 9.10.2018
+
+**Zajtra v stredu 10.10. cvičenia a ani prednáška nebudú.**
+
 
 ### 24.9.2018
 
