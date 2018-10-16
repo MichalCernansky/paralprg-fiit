@@ -3,6 +3,11 @@ layout: page
 title: Oznamy
 ---
 
+### 16.10.2018
+
+**Zajtra v stredu 17.10. cvičenia o 8:00 a 10:00 nebudú, na cvičenia o 13:00 (miestnosť -1.40) alebo o 15:00 (miestnosť 1.30a) môže prísť každý kto chce a komu to vyhovuje, dostanete základné informácie. Prednaška bude o 17tej.**
+
+
 ### 9.10.2018
 
 **Zajtra v stredu 10.10. cvičenia a ani prednáška nebudú.**
