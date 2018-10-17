@@ -5,7 +5,7 @@ title: Oznamy
 
 ### 17.10.2018
 
-1.úloha riešená na cvičeniach bude riešená v stredu 7.11., každý na cvičeniach na ktoré je prihlásený v AIS. 
+**1.úloha riešená na cvičeniach bude riešená v stredu 7.11., každý na cvičeniach na ktoré je prihlásený v AIS.** 
 Na najbližšie cvičenia 24.10. si precvičte vzorové pŕiklady [uloha1priklady.zip](labs/uloha1priklady.zip)) a konzultuje prípadné problémy.
 
 
