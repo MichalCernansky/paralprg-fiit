@@ -1,21 +1,20 @@
 ---
 layout: page
-title: Úlohy a projekt
+title: Úlohy
 ---
 
-V priebehu semestra je potrebné vypracovať a odprezentovať úlohu riešenú sa na určenom cvičení a dva projekty.
+V priebehu semestra je potrebné vypracovať a odovzdať úlohu riešenú sa na určenom cvičení a odprezentovať dve úlohy riešené aj mimo cvičení.
 
-Pthreads - 5 týžden na cvičeniach, bude zadaná a vypracovaná na cvičení, max. čas na vypracovanie 90 min, 10b  
-OpenMP+MPI projekt - 10 týždeň, 20b  
-Zadanie projektu – 10 týždeň  
-Projekt – 12 týždeň, 20b  
+Úloha č. 1: Pthreads - 5. alebo 6. týžden (bude upresnené), úloha zadaná a vypracovaná na cvičení, max. čas na vypracovanie 90 min, 10b  
+Úloha č. 2: OpenMP+MPI úloha - 10. týždeň, 20b  
+Úloha č. 3: Zvolená téma – 12. týždeň, 20b  
 
 Prvá úloha bude zadaná až na cvičení a bude ju potrebné vypracovať v priebehu cvičenia.
 
-Projekty budú zadané a dohodnuté v predstihu, bude možné ich vypracovať mimo cvičení a na cvičeniach ich prísť odprezentovať. Za každý týždeň oneskoreného odprezentovania bude projekt penalizovaný 4 bodmi. Bližšie informácie o môžných témach sú nižšie. Prezentuje sa produkt a odovzdáva sa krátka správa spolu s produktom.
+Ostatné úlohy budú zadané a dohodnuté v predstihu, bude možné ich vypracovať mimo cvičení a na cvičeniach ich prísť odprezentovať. Za každý týždeň oneskoreného odprezentovania bude študent penalizovaný 4 bodmi. Bližšie informácie o môžných témach sú nižšie. Prezentuje sa produkt a odovzdáva sa krátka správa spolu s produktom.
 
 
-## Úloha (Synchronizácia)
+## Úloha č. 1 (Synchronizácia)
 
 Príklady, ktoré je vhodné si preriešiť (z cvičení a prednášok):
 
@@ -36,7 +35,7 @@ Príklady, ktoré je vhodné si preriešiť (z cvičení a prednášok):
 - Obedujúci filozofi
 
 
-## Projekt č. 1 (OpenMP a MPI)
+## Úloha č. 2 (OpenMP a MPI)
 
 Zvoľte si výpočtovo náročnú úlohu a preverte možnosti aplikovania paralelného spracovania na jej riešenie. Využite paralelné programátorské modely OpenMP, MPI a dosiahnuté zrýchlenia porovnajte a komentujte. Diskutujte témy s cvičiacimi.
 
@@ -86,7 +85,7 @@ Implementujte algoritmus dopredného šírenia v doprednej viacvrstvovej percept
 [4] http://www2.fiit.stuba.sk/~cernans/nn/nn_download/UNS.zip  
 
 
-## Projekt č. 2 (Téma podľa záujmu študenta)
+## ## Úloha č. 3 (Téma podľa záujmu študenta)
 
 Príklady tém:
 
