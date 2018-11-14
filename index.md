@@ -3,6 +3,11 @@ layout: page
 title: Oznamy
 ---
 
+**Cvičenia o 8:00 budú začínať o 9:00. Na cvičenia môže každý chodiť ako mu to vyhovuje. Platí do odvolania (nielen pre najbližšie cvičenia).**
+
+{% comment %} 
+
+
 **Počas najbližších cvičení, teda v stredu 7.11., bude riešená 1.úloha.**
 
 Pokúste sa prísť na cvičenie, na ktoré ste prihlásený v AIS, pričom cvičenie o 8 a o 13tej budú posunuté na 9tu a 14tu, tiež cvičenie o 15tej bude v miestnosti -1.40. Čiže:
@@ -16,7 +21,6 @@ Pokúste sa prísť načas, čiže 5 min pred začiatkom cvičenia.
 
 ---
 
-{% comment %} 
 
 ### 17.10.2018
 
