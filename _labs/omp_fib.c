@@ -5,7 +5,7 @@
 //  Copyright © 2016 Michal Cernansky. All rights reserved.
 //
 
-#include <libiomp/omp.h>
+#include <omp.h>
 #include <stdio.h>
 #include <stdlib.h>
 
