@@ -5,9 +5,9 @@ title: Úlohy
 
 V priebehu semestra je potrebné vypracovať a odovzdať úlohu riešenú sa na určenom cvičení a odprezentovať dve úlohy riešené aj mimo cvičení.
 
-Úloha č. 1: Pthreads - úloha zadaná a vypracovaná na cvičení, max. čas na vypracovanie 90 min, 10b  
-Úloha č. 2: OpenMP+MPI úloha - zadané v predstihu, na cvičeniach odprezentovať, 20b  
-Úloha č. 3: Zvolená téma - dohodnuté v predstihu, na cvičeniach odprezentovať, 20b  
+Úloha č. 1: Pthreads - zadaná a vypracovaná na cvičení, max. čas na vypracovanie 60 min, 10b  
+Úloha č. 2: OpenMP+MPI úloha - zadaná v predstihu, na cvičeniach odprezentovať, 20b  
+Úloha č. 3: Zvolená téma - dohodnutá v predstihu, na cvičeniach odprezentovať, 20b  
 
 Prvá úloha bude zadaná až na cvičení a bude ju potrebné vypracovať v priebehu cvičenia. Náhradný termín bude určený v priebehu semestra.
 
