@@ -8,8 +8,8 @@ Náhradný termín pre riešenie 1. úlohy (priamo na cvičeniach) bude 17.12. o
 
 Termíny odovzdania 2. a 3. úlohy:
 
-- 2. úloha (MPI + OpenMP) - 5.12. (bez straty bodov)
-- 3. úloha (zvolená problematika) - 12.12. (bez straty bodov)
+- 2.úloha (MPI + OpenMP) - 5.12. (bez straty bodov)
+- 3.úloha (zvolená problematika) - 12.12. (bez straty bodov)
 
 
 **Cvičenia o 8:00 budú začínať o 9:00. Na cvičenia môže každý chodiť ako mu to vyhovuje. Platí do odvolania (nielen pre najbližšie cvičenia).**
