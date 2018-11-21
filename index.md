@@ -8,7 +8,7 @@ Náhradný termín pre riešenie 1. úlohy (priamo na cvičeniach) bude 17.12. o
 
 Termíny odovzdania 2. a 3. úlohy:
 
-- 2.úloha (MPI + OpenMP) - 5.12. (bez straty bodov)
+- 2.úloha (MPI + OpenMP) - 12.12. (bez straty bodov)
 - 3.úloha (zvolená problematika) - 12.12. (bez straty bodov)
 
 
