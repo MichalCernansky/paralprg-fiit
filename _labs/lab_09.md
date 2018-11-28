@@ -65,3 +65,9 @@ category: lab
   ```
   $ mpirun -n 4 --host 127.0.0.1,127.0.0.1,127.0.0.1,127.0.0.1 mpi_hello
   ```
+
+## Jednoduchý MPI Hello World program
+
+{% gist f9e74de59020b743666f2da54ecec885 %}
+
+
