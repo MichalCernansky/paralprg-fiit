@@ -3,6 +3,14 @@ layout: page
 title: Oznamy
 ---
 
+Posledný termín na odprezentovanie 2. a 3. úlohy je v stredu 19.12. o 12:00, v miestnosti -1.40. **Prípadné zmeny budú zverejnené tu a tiež odkomunikované mailom,  pre istotu si ale v utorok večer skontrolujte túto stránku, či nedošlo k zmenám.**
+
+Výsledky náhradného termínu 1. úlohy sú zapísané v IS. Konzultovať výsledok môžete v stredu 19.12. alebo počas skúšky.
+
+Všetci musíte odovzdať riešenia 2. a 3. úlohy do IS. Sú tam vytvorené miesta odovzdania otvorené do 19.12. do polnoci. Do týchto miest odovzdania odovzdajte aj tí z Vás, ktorí ste dopracovali dokumentaciu a pod.
+
+{% comment %} 
+
 Náhradný termín pre riešenie 1. úlohy (priamo na cvičeniach) bude 12.12. o 17:00, miestnosť upresníme.
 
 
@@ -14,8 +22,7 @@ Termíny odovzdania 2. a 3. úlohy:
 
 **Cvičenia o 8:00 budú začínať o 9:00. Na cvičenia môže každý chodiť ako mu to vyhovuje. Platí do odvolania (nielen pre najbližšie cvičenia).**
 
-{% comment %} 
-
+---
 
 **Počas najbližších cvičení, teda v stredu 7.11., bude riešená 1.úloha.**
 
@@ -29,7 +36,6 @@ Pokúste sa prísť na cvičenie, na ktoré ste prihlásený v AIS, pričom cvi�
 Pokúste sa prísť načas, čiže 5 min pred začiatkom cvičenia.
 
 ---
-
 
 ### 17.10.2018
 
