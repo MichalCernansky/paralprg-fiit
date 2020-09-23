@@ -5,4 +5,4 @@ title: Oznamy
 
 ### 23.9.2020
 
-Prednáška bude bývať v stredu od 10:00 do 11:40 a cvičenia budú v stredu o 8:30 a 12:00 (miestnosť -1.40 ak bude prezenčná výučba). Dnes od 10:00 začneme prednáškou na https://meet.google.com/yuu-abzj-kag
+Prednáška bude bývať v stredu od 10:00 do 11:40 a cvičenia budú v stredu o 8:30 a 12:00 (miestnosť -1.40 ak bude prezenčná výučba). Dnes od 10:00 začneme prednáškou a o 12:00 cvičeniami na https://meet.google.com/yuu-abzj-kag
