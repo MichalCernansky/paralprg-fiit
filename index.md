@@ -3,10 +3,20 @@ layout: page
 title: Oznamy
 ---
 
-### 23.9.2020
+### 6.10.2020
 
-Prednáška bude bývať v stredu od 10:00 do 11:40 a cvičenia budú v stredu o 8:30 a 12:00 (miestnosť -1.40 ak bude prezenčná výučba). Dnes od 10:00 začneme prednáškou a o 12:00 cvičeniami na https://meet.google.com/yuu-abzj-kag
+Zajtra **7.10.** sa opäť "stretneme" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag). 
 
+Náplň prednášky: 
+
+- dokončíme témy z minulej prednášky
+
+Náplň cvičení: 
+
+- Cvičenie 2: Vytváranie vlákien a vzájomné vylučovanie
+- Cvičenie 3: Synchronizáca pomocou podmienených premenných / monitorov
+
+--- 
 
 ### 29.9.2020
 
@@ -20,3 +30,10 @@ Náplň prednášky:
 Náplň cvičení: 
 
 - Cvičenie 2: Vytváranie vlákien a vzájomné vylučovanie
+
+--- 
+
+### 23.9.2020
+
+Prednáška bude bývať v stredu od 10:00 do 11:40 a cvičenia budú v stredu o 8:30 a 12:00 (miestnosť -1.40 ak bude prezenčná výučba). Dnes od 10:00 začneme prednáškou a o 12:00 cvičeniami na https://meet.google.com/yuu-abzj-kag
+
