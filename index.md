@@ -3,6 +3,20 @@ layout: page
 title: Oznamy
 ---
 
+### 13.10.2020
+
+Zajtra **14.10.** sa opäť "stretneme" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag). 
+
+Náplň prednášky: 
+
+- dokončíme témy z minulej prednášky + synchronizácia
+
+Náplň cvičení: 
+
+- Cvičenie 3 a 4: Synchronizáca pomocou podmienených premenných / monitorov
+
+--- 
+
 ### 6.10.2020
 
 Zajtra **7.10.** sa opäť "stretneme" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag). 
