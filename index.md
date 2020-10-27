@@ -3,6 +3,19 @@ layout: page
 title: Oznamy
 ---
 
+### 27.10.2020
+
+Zajtra **28.10.** sa opäť "stretneme" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag). 
+
+Náplň prednášky: 
+
+- architektury + OpenMP
+
+Náplň cvičení: 
+
+- Cvičenie 5: Komplexnejšia synchronizačná úloha
+
+--- 
 ### 20.10.2020
 
 Zajtra **21.10.** sa opäť "stretneme" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag). 
