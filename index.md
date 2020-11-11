@@ -4,6 +4,19 @@ title: Oznamy
 ---
 
 ---
+###### 11.11.2020
+
+Dnes **11.11.** sa opäť "stretneme" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag). 
+
+Náplň prednášky: 
+
+- Návrh paralelných algoritmov
+
+Náplň cvičení: 
+
+- Vzorové riešenie 1. úlohy 
+
+--- 
 ###### 1.11.2020
 
 V stredu **4.11.** priamo počas cvičení (ale online) budeme riešiť 1. úlohu. Zrealizujeme to nakoniec v dvoch skupinách a to podľa cvičení, na kt. ste boli pridelení: od 8:30 do 10:00 a od 12:00 do 13:30 (90 min.). Každý teda prosím prídite ideálne na vaše cvičenie. Náhradný (opravný) termín bude na konci semestra.
