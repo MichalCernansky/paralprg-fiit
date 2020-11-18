@@ -4,17 +4,30 @@ title: Oznamy
 ---
 
 ---
+###### 18.11.2020
+
+Dnes **18.11.** sa opäť "stretneme" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag). 
+
+Náplň prednášky: 
+
+- Návrh paralelných algoritmov a MPI
+
+Náplň cvičení: 
+
+- Konzultácie 1. úlohy 
+
+---
 ###### 11.11.2020
 
 Dnes **11.11.** sa opäť "stretneme" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag). 
 
 Náplň prednášky: 
 
-- Návrh paralelných algoritmov
+- Návrh paralelných algoritmov a MPI
 
 Náplň cvičení: 
 
-- Vzorové riešenie 1. úlohy 
+- Vzorové riešenie 1. úlohy, OpenMP
 
 --- 
 ###### 1.11.2020
