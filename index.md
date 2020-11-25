@@ -4,6 +4,26 @@ title: Oznamy
 ---
 
 ---
+###### 25.11.2020 (posledná zmena)
+
+**Termíny**
+
+**Úlohy/Projekty:**
+
+- 2\. projekt: utorok polnoc **1.12.2020 do 24:00**, ak sa nezadarí tak **8.12.2020 do 24:00** s -4b stratou, prezentácia/obhajoba sa v rámci cvičení resp. podľa dohody.
+- Úloha č. 1 náhradný termín: stredu počas skúšky **9.12.2020 o cca 10:45**
+- 3\. projekt: piatok polnoc **8.1.2020 do 24:00**, prezentácia/obhajoba 12.1. po skúške resp. podľa dohody
+
+**Skúška:**
+
+- Riadny termín: utorok **12.1.2021 o 8:30** (podľa rozvrhu o 7:30, ale posúvame si to).
+- Náhradný termín: piatok **29.1.2021 o 8:30** (podľa rozvrhu o 7:30, ale posúvame si to aj teraz).
+
+Hromadne sa stretávame na [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag).
+
+Individuálne cez skype, moj skype id je: live:michal.cernansky_1
+
+---
 ###### 25.11.2020
 
 Dnes **25.11.** sa opäť "stretneme" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag). 
