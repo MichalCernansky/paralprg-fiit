@@ -4,6 +4,19 @@ title: Oznamy
 ---
 
 ---
+###### 25.11.2020
+
+Dnes **25.11.** sa opäť "stretneme" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag). 
+
+Náplň prednášky: 
+
+- Základné komunikačné operácie a Cuda C model
+
+Náplň cvičení: 
+
+- Open MP, MPI, konzultácie 2. a 3. úlohy
+
+---
 ###### 18.11.2020
 
 Dnes **18.11.** sa opäť "stretneme" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag). 
