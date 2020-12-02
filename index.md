@@ -4,7 +4,7 @@ title: Oznamy
 ---
 
 ---
-###### 25.11.2020 (posledná zmena)
+###### 2.12.2020 (posledná zmena)
 
 **Termíny**
 
@@ -12,7 +12,7 @@ title: Oznamy
 
 - 2\. projekt: utorok polnoc **1.12.2020 do 24:00**, ak sa nezadarí tak **8.12.2020 do 24:00** s -4b stratou, prezentácia/obhajoba sa v rámci cvičení resp. podľa dohody.
 - Úloha č. 1 náhradný termín: stredu počas skúšky **9.12.2020 o cca 10:45**
-- 3\. projekt: piatok polnoc **8.1.2020 do 24:00**, prezentácia/obhajoba 12.1. po skúške resp. podľa dohody
+- 3\. projekt: piatok polnoc **8.1.2021 do 24:00**, prezentácia/obhajoba 12.1. po skúške resp. podľa dohody
 
 **Skúška:**
 
@@ -21,7 +21,20 @@ title: Oznamy
 
 Hromadne sa stretávame na [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag).
 
-Individuálne cez skype, moj skype id je: live:michal.cernansky_1
+Individuálne cez skype, moj skype id je: live:michal.cernansky_1, ideálne pondelky a stredy medzi 19:00 až 22:00 (konzultácie, prezentácia/obhajoba).
+
+---
+###### 2.12.2020
+
+Dnes **2.12.** sme sa opäť "stretli" online o 8:30 a 12:00 na cvičeniach a o 10:00 na prednáške.
+
+Náplň prednášky: 
+
+- Základné komunikačné operácie a Cuda C model
+
+Náplň cvičení: 
+
+- prezentácia/obhajoba 2. úlohy
 
 ---
 ###### 25.11.2020
