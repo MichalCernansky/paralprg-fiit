@@ -4,6 +4,17 @@ title: Oznamy
 ---
 
 ---
+###### 5.1.2021 (posledná zmena)
+
+**Informácie ku skúške**
+
+- Skúška bude online, stretneme sa v utorok **12.1.2021 o 8:30**, štandardne na google meet: [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag).
+- Skúška bude trvať max. 100min., je nevyhnutné prísť na začiatok skúšky.
+- Vypracované riešenie budete odovzávať do AIS.
+- Po skúške bude potrebná individuálna prezentácia/konzultácia samotnej skúšky a aj 3. projektu, termín a podrobnosti uvediem po skúške (termín pre odovzdanie 3. pojektu do AIS je polnoc 8.1.2021 do 24:00). 
+- Ak niekto potrebuje konzultovať, moj skype id je: live:michal.cernansky_1, ideálne pondelky a stredy medzi 19:00 až 22:00 (konzultácie, prezentácia/obhajoba).
+
+---
 ###### 2.12.2020 (posledná zmena)
 
 **Termíny**
