@@ -6,7 +6,7 @@ title: Oznamy
 ---
 ###### 20.1.2021 (posledná zmena)
 
-**Skúška 12.1.**
+**Prezentácie a konzultácie skúšky a 3. zadania**
 
 - Skúška je opravená, body sú nahodené v AIS.
 - Skúšku + 3. zadanie je potrebné prezentovať/konzultovať!, ale ak niekomu aj zapíšem známku do AIS, konzultovať nemusí,
