@@ -4,6 +4,16 @@ title: Oznamy
 ---
 
 ---
+###### 20.1.2021 (posledná zmena)
+
+**Skúška 12.1.**
+
+- Skúška je opravená, body sú nahodené v AIS.
+- Skúšku + 3. zadanie je potrebné prezentovať/konzultovať!, ale ak niekomu aj zapíšem známku do AIS, konzultovať nemusí,
+- Ďalšie trmíny pre konzultácie tejto skúšky sú piatok 22.1. a pondelok 25.1., o 10:30 a o 17:00.
+- Klasické termíny platia dlhodobo - pondelky a stredy od 19:00.
+
+---
 ###### 5.1.2021 (posledná zmena)
 
 **Informácie ku skúške**
