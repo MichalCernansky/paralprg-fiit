@@ -4,6 +4,17 @@ title: Oznamy
 ---
 
 ---
+###### 28.1.2021 (posledná zmena)
+
+**Informácie ku skúške**
+
+- Skúška - druhý termín bude prebiehať ako prvý termín:
+- Bude online, stretneme sa v piatok **29.1.2021 o 8:30**, štandardne na google meet: [https://meet.google.com/yuu-abzj-kag](https://meet.google.com/yuu-abzj-kag).
+- Skúška bude trvať max. 100min., je nevyhnutné prísť na začiatok skúšky.
+- Vypracované riešenie budete odovzávať do AIS.
+- Po skúške bude potrebná individuálna prezentácia/konzultácia samotnej skúšky a prípadne aj 3. projektu, v pondelok od 19:00 alebo v stredu 30.1. o 10:30 a od 17:00 (prípadné zmeny dám sem na stránku predmetu - kontrolujte si ju).
+
+---
 ###### 20.1.2021 (posledná zmena)
 
 **Prezentácie a konzultácie skúšky a 3. zadania**
