@@ -4,6 +4,13 @@ title: Oznamy
 ---
 
 ---
+###### 29.1.2021 (posledná zmena)
+
+**Hodnotenie**
+
+- Hodnotenie je uzavreté, skontrolujte si prosím body a známky v AIS a v prípade potreby ma kontaktuje (skype pondelky a stredy od 19:00, mail).
+
+---
 ###### 28.1.2021 (posledná zmena)
 
 **Informácie ku skúške**
